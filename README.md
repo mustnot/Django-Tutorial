@@ -53,4 +53,4 @@
     * [Packaging your app](https://docs.djangoproject.com/en/3.0/intro/reusable-apps/#packaging-your-app)
     * [Using your own package](https://docs.djangoproject.com/en/3.0/intro/reusable-apps/#using-your-own-package)
     * [Publishing your app](https://docs.djangoproject.com/en/3.0/intro/reusable-apps/#publishing-your-app)
-    * [Installing Python packages with a virtual environment](
+    * [Installing Python packages with a virtual environment](https://docs.djangoproject.com/en/3.0/intro/reusable-apps/#installing-python-packages-with-a-virtual-environment)
