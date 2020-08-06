@@ -28,7 +28,7 @@
 - [x] Part 4
     * [Write a minimal form](https://docs.djangoproject.com/en/3.0/intro/tutorial04/#write-a-minimal-form)
     * [Use generic views: Less code is better](https://docs.djangoproject.com/en/3.0/intro/tutorial04/#use-generic-views-less-code-is-better)
-- [ ] Part 5
+- [x] Part 5
     * [Introducing automated testing](https://docs.djangoproject.com/en/3.0/intro/tutorial05/#introducing-automated-testing)
     * [Basic testing strategies](https://docs.djangoproject.com/en/3.0/intro/tutorial05/#basic-testing-strategies)
     * [Writing our first test](https://docs.djangoproject.com/en/3.0/intro/tutorial05/#writing-our-first-test)
