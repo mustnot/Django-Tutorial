@@ -1,6 +1,6 @@
 # Django Tutorial
 
-> Django Tutorial 따라하며 작성한 코드입니다.
+> Study Django Tutorial - Writing your first Django app
 
 <br>
 
