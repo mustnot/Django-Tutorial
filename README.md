@@ -38,7 +38,7 @@
 - [x] Part 6
     * [Customize your *app’s* look and feel](https://docs.djangoproject.com/en/3.0/intro/tutorial06/#customize-your-app-s-look-and-feel)
     * [Adding a background-image](https://docs.djangoproject.com/en/3.0/intro/tutorial06/#adding-a-background-image)
-- [ ] Part 7
+- [x] Part 7
     * [Customize the admin form](https://docs.djangoproject.com/en/3.0/intro/tutorial07/#customize-the-admin-form)
     * [Adding related objects](https://docs.djangoproject.com/en/3.0/intro/tutorial07/#adding-related-objects)
     * [Customize the admin change list](https://docs.djangoproject.com/en/3.0/intro/tutorial07/#customize-the-admin-change-list)
