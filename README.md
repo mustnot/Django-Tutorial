@@ -35,7 +35,7 @@
     * [Test a view](https://docs.djangoproject.com/en/3.0/intro/tutorial05/#test-a-view)
     * [When testing, more is better](https://docs.djangoproject.com/en/3.0/intro/tutorial05/#when-testing-more-is-better)
     * [Further testing](https://docs.djangoproject.com/en/3.0/intro/tutorial05/#further-testing)
-- [ ] Part 6
+- [x] Part 6
     * [Customize your *app’s* look and feel](https://docs.djangoproject.com/en/3.0/intro/tutorial06/#customize-your-app-s-look-and-feel)
     * [Adding a background-image](https://docs.djangoproject.com/en/3.0/intro/tutorial06/#adding-a-background-image)
 - [ ] Part 7
