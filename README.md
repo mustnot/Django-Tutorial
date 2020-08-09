@@ -45,12 +45,3 @@
     * [Customize the admin look and feel](https://docs.djangoproject.com/en/3.0/intro/tutorial07/#customize-the-admin-look-and-feel)
     * [Customize the admin index page](https://docs.djangoproject.com/en/3.0/intro/tutorial07/#customize-the-admin-index-page)
     * [What’s next?](https://docs.djangoproject.com/en/3.0/intro/tutorial07/#what-s-next)
-- [ ] Advanced Tutorial
-    * [Advanced tutorial: How to write reusable apps](https://docs.djangoproject.com/en/3.0/intro/reusable-apps/)
-    * [Reusability matters](https://docs.djangoproject.com/en/3.0/intro/reusable-apps/#reusability-matters)
-    * [Your project and your reusable app](https://docs.djangoproject.com/en/3.0/intro/reusable-apps/#your-project-and-your-reusable-app)
-    * [Installing some prerequisites](https://docs.djangoproject.com/en/3.0/intro/reusable-apps/#installing-some-prerequisites)
-    * [Packaging your app](https://docs.djangoproject.com/en/3.0/intro/reusable-apps/#packaging-your-app)
-    * [Using your own package](https://docs.djangoproject.com/en/3.0/intro/reusable-apps/#using-your-own-package)
-    * [Publishing your app](https://docs.djangoproject.com/en/3.0/intro/reusable-apps/#publishing-your-app)
-    * [Installing Python packages with a virtual environment](https://docs.djangoproject.com/en/3.0/intro/reusable-apps/#installing-python-packages-with-a-virtual-environment)
